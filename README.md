@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nasiima Mohamed</h1>
 <h3 align="center">I have completed a combined total of 23 weeks worth of intensive coding bootcamp experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasiima&label=Profile%20views&color=0e75b6&style=flat" alt="nasiima" /> </p>
 
 - 🔭 I’m currently working on **A concoction of personal projects and work projects**
 
